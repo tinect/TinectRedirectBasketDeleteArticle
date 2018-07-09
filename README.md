@@ -4,6 +4,7 @@
 
 This plugins for shopware redirects request after deleting article in basket. Otherwise the deleteArticle-Link stays in address-bar.
 
+[PR at shopware/shopware](https://github.com/shopware/shopware/pull/1706)
 
 ## Zip-Installation
 
